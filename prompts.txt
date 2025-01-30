@@ -1,5 +1,7 @@
-🤞 Prompt PT-BR: Crie um episódio de podcast em IDIOMA português DO BRASIL, com DOIS apresentadores, Ana e Henrique, discutindo 'Inteligência Artificial e Criatividade'. O tom deve ser informativo e humorado, com curiosidades. Aborde a evolução da IA na criação artística, suas possibilidades e limitações. Inclua exemplos divertidos de criações inusitadas e debata seu papel na educação, destacando como pode estimular a criatividade em professores e alunos, mas também os riscos de dependência excessiva.
+Prompt PT-BR Generico: Crie um episódio de podcast em IDIOMA português DO BRASIL, com DOIS apresentadores, Ana e Henrique, discutindo [assunto]. O tom deve ser informativo e humorado, com curiosidades. Aborde a evolução da [assunto], suas possibilidades e limitações. Inclua exemplos divertidos de criações inusitadas e debata seu papel na educação, destacando como pode estimular a criatividade em professores e alunos, mas também os riscos de dependência excessiva.
 
-
-Prompt PT-BR: 
+Prompt PT-BR Docs: 
 Crie um episódio de podcast em IDIOMA português DO BRASIL, com DOIS apresentadores, Ana e Henrique, discutindo sobre o assunto dos documentos anexados. O tom deve ser informativo e humorado, com curiosidades. Aborde as questoes da reuniao, os temas mais importantes, os pontos de atencao, suas possibilidades e limitações. 
+
+
+Prompt PT-BR Sobre IA: Crie um episódio de podcast em IDIOMA português DO BRASIL, com DOIS apresentadores, Ana e Henrique, discutindo 'Inteligência Artificial e Criatividade'. O tom deve ser informativo e humorado, com curiosidades. Aborde a evolução da IA na criação artística, suas possibilidades e limitações. Inclua exemplos divertidos de criações inusitadas e debata seu papel na educação, destacando como pode estimular a criatividade em professores e alunos, mas também os riscos de dependência excessiva.
